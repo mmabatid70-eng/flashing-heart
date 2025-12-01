@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_show_leds" id="8=`AE,dbV(I6fvg%2JAf" disabled-reasons="pxt_automatic_disabled" x="-14" y="-67"><field name="LEDS">`
+        # # . # # 
+        # . # . # 
+        # . . . # 
+        . # . # . 
+        . . # . .
+        `</field></block><block type="device_forever" id="L%F[ZUn/Nf3S]g^xN{;E" x="0" y="0"></block></xml>
